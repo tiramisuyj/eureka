@@ -9,5 +9,12 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <modules>
+
+        <module>client1</module>
+        <module>client2</module>
+        <module>consumer</module>
+
+    </modules>
 
 </project>
